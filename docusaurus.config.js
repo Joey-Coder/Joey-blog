@@ -1,7 +1,7 @@
 module.exports = {
   title: "JOEY'S BLOG",
   tagline: "The tagline of my site",
-  url: "https://your-docusaurus-test-site.com",
+  url: "https://your-docusaurus-test-site.com/blog",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
